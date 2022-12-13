@@ -1,1 +1,1 @@
-an modern ui flutter ecommerce app using bloc state management
+a modern ui flutter ecommerce app using bloc state management
